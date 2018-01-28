@@ -16,7 +16,7 @@ ref:
 
 音频文件处理
 
-## PortAudio
+## PyAudio
 
 录制与播放音频
 
